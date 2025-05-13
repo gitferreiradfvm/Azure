@@ -3,6 +3,7 @@ Guia Passo a Passo para Usuários de Azure.
 Introdução: Desvendando o Poder das VMs na Nuvem Azure
 
 Se você está começando sua jornada na nuvem ou buscando consolidar seus conhecimentos, entender como criar e configurar máquinas virtuais (VMs) na Azure é um passo fundamental. Uma VM na nuvem é essencialmente um computador virtualizado rodando nos data centers da Microsoft, oferecendo flexibilidade, escalabilidade e uma vasta gama de opções para suas necessidades computacionais. Este guia foi elaborado para te conduzir desde os primeiros cliques até as configurações mais avançadas, garantindo que você compreenda os conceitos chave e as melhores práticas para suas implementações na Azure.
+
 Passo 1: Acesso ao Portal do Azure - Sua Central de Comando
 
 O primeiro passo para criar sua VM é acessar o Portal do Azure. Pense nele como o painel de controle centralizado para todos os seus recursos na Azure.
@@ -121,6 +122,7 @@ Como já discutido, a escolha da opção de disponibilidade é fundamental para 
 Zona (Zona de Disponibilidade)
 
 A escolha da zona de disponibilidade (se aplicável na região selecionada) permite distribuir suas VMs por diferentes data centers físicos dentro de uma região. Isso oferece uma camada adicional de proteção contra falhas de infraestrutura localizadas. Para aplicações críticas, distribuir VMs por múltiplas zonas de disponibilidade é uma prática recomendada.
+
 Segurança - Sua Prioridade Máxima
 
 A segurança da sua máquina virtual na Azure é uma responsabilidade compartilhada entre você e a Microsoft. A Microsoft protege a infraestrutura subjacente, mas você é responsável por proteger sua VM e os dados nela contidos. Algumas práticas essenciais de segurança incluem:
